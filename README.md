@@ -10,4 +10,4 @@ Shift Akhir : A
 ![Pertemuan3](ScreenShoot/Pertemuan3.jpg)
 
 # Gambar
-![Pertemuan3](ScreenShoot/Pertemuan3.mp4)
+![Pertemuan3](ScreenShoot/pertemuan3.mp4)
