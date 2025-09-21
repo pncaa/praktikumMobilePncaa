@@ -10,10 +10,7 @@ Shift Akhir : A
 ![Pertemuan3](ScreenShoot/Pertemuan3.jpg)
 
 
+# Video
+![Pertemuan3](ScreenShoot/Pertemuan3.mp4)
 
-Uploading pertemuan3.mp4…
-
-
-
-Uploading Pertemuan_3.mp4…
-
+![Pertemuan3](ScreenShoot/Pertemuan_3.mp4)
