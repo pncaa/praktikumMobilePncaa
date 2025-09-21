@@ -5,3 +5,6 @@ Shift Akhir : A
 
 # Gambar
 ![Pertemuan2](ScreenShoot/Pertemuan2.png)
+
+# Gambar
+![Pertemuan3](ScreenShoot/tugas_prak_pemob.png)
