@@ -9,5 +9,11 @@ Shift Akhir : A
 # Gambar
 ![Pertemuan3](ScreenShoot/Pertemuan3.jpg)
 
-# Video
-![Pertemuan3](ScreenShoot/pertemuan3.mp4)
+
+
+Uploading pertemuan3.mp4…
+
+
+
+Uploading Pertemuan_3.mp4…
+
