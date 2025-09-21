@@ -7,4 +7,4 @@ Shift Akhir : A
 ![Pertemuan2](ScreenShoot/Pertemuan2.png)
 
 # Gambar
-![Pertemuan3](ScreenShoot/Pertemuan3.png)
+![Pertemuan3](ScreenShoot/Pertemuan3.jpg)
