@@ -8,3 +8,6 @@ Shift Akhir : A
 
 # Gambar
 ![Pertemuan3](ScreenShoot/Pertemuan3.jpg)
+
+# Gambar
+![Pertemuan3](ScreenShoot/Pertemuan3.mp4)
