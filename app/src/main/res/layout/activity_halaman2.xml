@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".Halaman2Activity">
+
+    <ImageView
+        android:id="@+id/gedung_teknik"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        android:background="@color/white"
+        android:src="@drawable/teknik_unsoed_2"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/logo_unsoed"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/lambang_unsoed"
+        app:layout_constraintBottom_toBottomOf="@+id/gedung_teknik"
+        app:layout_constraintLeft_toLeftOf="@+id/gedung_teknik"
+        app:layout_constraintRight_toRightOf="@+id/gedung_teknik"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_lulusan_title"
+        style="@style/TextAppearance.Material3.TitleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@color/colorSecondary"
+        android:padding="4dp"
+        android:text="@string/lulusan"
+        android:textColor="@color/colorprimary"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/logo_unsoed"/>
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:padding="6dp"
+        app:layout_constraintBottom_toTopOf="@+id/btn_back"
+        app:layout_constraintTop_toBottomOf="@id/gedung_teknik">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <com.google.android.material.card.MaterialCardView
+                android:id="@+id/card_profile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                app:cardBackgroundColor="@color/material_dynamic_neutral90"
+                app:cardCornerRadius="8dp">
+
+                <TextView
+                    android:id="@+id/tv_lulusan"
+                    style="@style/TextAppearance.AppCompat.Title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="16dp"
+                    android:text="@string/desc_lulusan"
+                    android:textColor="@color/black"
+                    android:background="@color/colordeskripsi"
+                    android:textSize="14sp"
+                    android:textStyle="italic"/>
+
+            </com.google.android.material.card.MaterialCardView>
+
+            <LinearLayout
+                android:id="@+id/linear_layout_profile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:orientation="vertical">
+
+                <include
+                    android:id="@+id/layout_phone"
+                    layout="@layout/layout_menu"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4dp"/>
+
+                <include
+                    android:id="@+id/layout_email"
+                    layout="@layout/layout_menu"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4dp"/>
+
+                <include
+                    android:id="@+id/layout_location"
+                    layout="@layout/layout_menu"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4dp"/>
+
+                <include
+                    android:id="@+id/layout_himpunan"
+                    layout="@layout/layout_menu"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4dp"/>
+
+                <include
+                    android:id="@+id/layout_ig"
+                    layout="@layout/layout_menu"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4dp"/>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:backgroundTint="@color/colorprimary"
+        android:text="@string/back"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
