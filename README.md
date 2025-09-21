@@ -11,6 +11,6 @@ Shift Akhir : A
 
 
 # Video
-![Pertemuan3](ScreenShoot/Pertemuan3.mp4)
+![Pertemuan3](ScreenShoot/pertemuan3.mp4)
 
 ![Pertemuan3](ScreenShoot/Pertemuan_3.mp4)
