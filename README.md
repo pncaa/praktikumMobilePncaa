@@ -1,16 +1,18 @@
-Nama : Mufthie Alie
-NIM  : H1D023042
-Shift Awal : B
-Shift Akhir : A
+Nama : Panca Aziz Saputra
+NIM  : H1D023033
+Shift Awal : H
+Shift Akhir : E
 
 # Gambar
-![Pertemuan2](ScreenShoot/Pertemuan2.png)
+
+![Pertemuan2](ScreenShoot/pertemuan2.jpg)
 
 # Gambar
-![Pertemuan3](ScreenShoot/Pertemuan3.jpg)
+
+![Pertemuan3](ScreenShoot/pertemuan3.jpg)
 
 
 # Video
-![Pertemuan3](ScreenShoot/pertemuan3.mp4)
+![Pertemuan3](ScreenShoot/vid_3.mp4)
 
-![Pertemuan3](ScreenShoot/Pertemuan_3.mp4)
+
