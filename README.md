@@ -9,7 +9,7 @@ Shift Akhir : E
 
 # Gambar
 
-![Pertemuan3](ScreenShoot/pertemuan3.jpg)
+![Pertemuan3](ScreenShoot/Pertemuan3.jpg)
 
 
 # Video
