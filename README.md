@@ -13,6 +13,6 @@ Shift Akhir : E
 
 
 # Video
-![Pertemuan3](ScreenShoot/vid_3.mp4)
+![Pertemuan3](ScreenShoot/vid_3-ezgif.com-video-to-gif-converter.gif)
 
 
