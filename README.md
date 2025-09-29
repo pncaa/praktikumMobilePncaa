@@ -9,10 +9,10 @@ Shift Akhir : E
 
 # Gambar
 
-![Pertemuan3](ScreenShoot/Pertemuan3.jpg)
+![Pertemuan3](ScreenShoot/pertemuan3.jpg)
 
 
 # Video
-![Pertemuan3](ScreenShoot/vid_3-ezgif.com-video-to-gif-converter.gif)
+![Pertemuan3](ScreenShoot/vid_3.mp4)
 
 
