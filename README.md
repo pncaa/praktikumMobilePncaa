@@ -14,9 +14,9 @@ Shift Akhir : E
 
 
 # Video Pertemuan 3
-![Pertemuan3](ScreenShoot/vid_3.mp4)
+![Pertemuan3](ScreenShoot/vid_3.gif)
 
 # Video Pertemuan 4
-![Pertemuan3](ScreenShoot/vid_4.mp4)
+![Pertemuan3](ScreenShoot/vid_4.gif)
 
 
