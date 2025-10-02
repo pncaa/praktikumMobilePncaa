@@ -8,6 +8,7 @@
     <string name="ig_himpunan">https://www.instagram.com/unsoed.unsoed/</string>
     <string name="email">william.johnson@example-pet-store.id</string>
     <string name="telepon">08112344244</string>
+    <string name="book">Buku</string>
 
 
     <string name="welcome_text">Selamat Datang Di Prodi Informatika, \nFakultas Teknik, \nUniversitas Jenderal Soedirman</string>
@@ -26,4 +27,6 @@
             praktis dan teoritis dari informatika, seperti pemrograman, sistem
             informasi, jaringan komputer, dan kecerdasan buatan.
     </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

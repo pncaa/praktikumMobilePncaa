@@ -21,10 +21,5 @@ class MainActivity : AppCompatActivity() {
         binding.buttonPage.setOnClickListener {
             startActivity(Intent(this, Halaman2Activity::class.java))
         }
-
-        // ✅ Tombol baru menuju DaftarBukuActivity
-        binding.buttonDaftarBuku.setOnClickListener {
-            startActivity(Intent(this, DaftarBukuActivity::class.java))
-        }
     }
 }

@@ -16,7 +16,7 @@
         <!-- Halaman Daftar Buku -->
         <activity
             android:name=".DaftarBukuActivity"
-            android:exported="true" />
+            android:exported="false" />
 
         <!-- Halaman Kedua -->
         <activity

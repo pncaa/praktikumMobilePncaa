@@ -6,6 +6,8 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.unsoed.informatikamobile.databinding.ActivityHalaman2Binding
 
+
+
 class Halaman2Activity : AppCompatActivity() {
     private lateinit var binding: ActivityHalaman2Binding
     private val latitude = -7.429427
@@ -45,6 +47,11 @@ class Halaman2Activity : AppCompatActivity() {
             it.imgIcon.setImageResource(R.drawable.ic_instagram)
             it.tvLayout.setText(R.string.instagram)
         }
+        binding.layoutBuku.let {
+            it.imgIcon.setImageResource(R.drawable.ic_book)
+            it.tvLayout.setText(R.string.book)
+        }
+
     }
 
     private fun initListener() {
@@ -97,6 +104,10 @@ class Halaman2Activity : AppCompatActivity() {
             if (intent.resolveActivity(packageManager) != null) {
                 startActivity(intent)
             }
+        }
+
+        binding.layoutBuku.root.setOnClickListener {
+            startActivity(Intent(this, DaftarBukuActivity::class.java))
         }
 
         binding.btnBack.setOnClickListener {
